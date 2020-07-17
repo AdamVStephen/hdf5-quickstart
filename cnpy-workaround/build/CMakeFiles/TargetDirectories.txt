@@ -1,0 +1,4 @@
+/home/astephen/git-wd/hdf5-quickstart/cnpy-workaround/build/CMakeFiles/rebuild_cache.dir
+/home/astephen/git-wd/hdf5-quickstart/cnpy-workaround/build/CMakeFiles/edit_cache.dir
+/home/astephen/git-wd/hdf5-quickstart/cnpy-workaround/build/CMakeFiles/example1.dir
+/home/astephen/git-wd/hdf5-quickstart/cnpy-workaround/build/CMakeFiles/mruiz.dir

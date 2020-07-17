@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/mruiz.dir/cnpy-mruiz.cpp.o  -o mruiz   -L/opt/cnpy/lib  -Wl,-rpath,/opt/cnpy/lib -lcnpy -lz 
